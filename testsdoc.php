@@ -52,5 +52,10 @@
       --> Usuário inválido 
    
     # Casos de teste
+    "caio@rj.senac.com" -> E-mail válido 
+    "caiorj.com" -> E-mail inválido 
+    "1234567" -> Senha inválida 
+    "caio@rj.senac.com" , "123456" -> Usuário Autenticado
+    "caio@rj.senac.com" , "1234569" -> Usuário Inválido
 
 ?>
