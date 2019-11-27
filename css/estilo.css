@@ -1,10 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-family: 'Jomolhari', serif;
-    background-image: url(../cima.jpg);
-    background-attachment: fixed;
-    background-size: auto;
-    background-repeat: no-repeat;
+
    /* padding-top:4.2rem;*/
    /* padding-bottom:4.2rem;*/
 }
@@ -142,7 +139,7 @@ color: #000000;
     margin-top: 5%;
 }
 .jj{
-color: white;
+color: #000000;
 }
 
 

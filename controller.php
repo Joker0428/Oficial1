@@ -209,6 +209,14 @@
         case 'carrinho':
             $view = "cart.php";
         break;
+        
+        case 'home':
+            $view = "home.php";
+            break;
+
+        default:
+            $view = "home.php";
+        break;
     }
 
     
